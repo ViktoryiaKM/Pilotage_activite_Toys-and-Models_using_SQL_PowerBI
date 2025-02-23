@@ -22,4 +22,5 @@ Le tableau de bord devait s’articuler autour de quatre axes stratégiques :
 ⌛ **Délai** : 1 mois  
 
 ✅ **Présentation client**:
+Projet_Toys and Models.pdf
    
