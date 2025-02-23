@@ -22,7 +22,7 @@ Le tableau de bord devait s’articuler autour de quatre axes stratégiques :
 ⌛ **Délai** : 1 mois  
 
 ✅ **Présentation client**:  
-[Voir rapport](Projet_Toys and Models.pdf)
+[Projet_Toys and Models.pdf](https://github.com/ViktoryiaKM/Analysis-Toys-and-Models-using-SQL-POWERBI/blob/main/Projet_Toys%20and%20Models.pdf)
 
 
 
