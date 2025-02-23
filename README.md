@@ -1,21 +1,25 @@
-# Toys-and-models-Analysis-using-SQL-POWERBI
+# Analysis for "Toys-and-models" using SQL and POWER BI
 
-🚂 Model company dashboarding with SQL and POWER BI
-🎯 Objectif du projet :
-Répondre à la demande de KPI d'un client via un traitement de données à l'aide de SQL 🔎👨‍💻
-KPI ventes : Nb de produits vendus par catégorie et par mois en N et N-1, évolution en pièces et %
+🚂 La société **TOYS AND MODELS**, spécialisée dans la vente de maquettes et de modèles réduits, a sollicité la réalisation d’analyses approfondies de son activité.
 
-⚙️ **Outils utilisés**  
-    Suivi projet - planificateur de tâches :
-     - Méthode Agile
-     - Airtable  
+Afin d’obtenir une vue d’ensemble de la performance de l’entreprise, la direction a exprimé le besoin d’un Tableau de Bord interactif.
 
-    Extraction de données et traitement de données:
-     - MySQL workbench
-    Data visualisation
-    - Power BI
+🎯 **Objectif du projet**:  
+Définir des KPI pertinents et concevoir un tableau de bord interactif sous Power BI, en exploitant une base de données SQL, pour analyser les performances clés de l’entreprise.
+
+Le tableau de bord devait s’articuler autour de quatre axes stratégiques :  
+- **Ventes** – Analyse des tendances commerciales et des performances produits.  
+- **Finances** – Suivi des indicateurs financiers et de la rentabilité.  
+- **Logistique** – Évaluation de la gestion des stocks et des délais de livraison.  
+- **Ressources humaines** – Analyse des effectifs et de la productivité.  
+
+⚙️ **Étapes Clés & Outils**:  
+- Interrogation & Analyse des Données : Extraction et analyse de données avec **SQL Workbench et SQL**.
+- Création du Tableau de Bord : Identification des KPI, création d’un tableau de bord interactif avec **Power BI**
+- Gestion de Projet : Suivi et planification des tâches avec la méthode** Agile et Airtable**.
 
 
+⌛ **Délai** : 1 mois  
 
-
-🚃 Source des données :
+✅ **Présentation client**:
+   
