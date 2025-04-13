@@ -1,4 +1,4 @@
-# Analysis for "Toys-and-models" using SQL and POWER BI
+# Tableau de bord Power BI – Pilotage d’activité pour "Toys-and-models"
 
 🚂 La société **TOYS AND MODELS**, spécialisée dans la vente de maquettes et de modèles réduits, a sollicité la réalisation d’analyses approfondies de son activité.
 
