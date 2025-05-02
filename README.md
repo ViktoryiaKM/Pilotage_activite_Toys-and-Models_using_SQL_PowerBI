@@ -1,7 +1,8 @@
-# Tableau de bord Power BI – Pilotage d’activité pour "Toys-and-models"
+# "Toys-and-models" : Tableau de Bord Power BI pour le Pilotage d’Activité
+*Projet collaboratif réalisé dans le cadre de ma formation à la Wild Code School.*
 
+## Contexte
 🚂 La société **TOYS AND MODELS**, spécialisée dans la vente de maquettes et de modèles réduits, a sollicité la réalisation d’analyses approfondies de son activité.
-
 Afin d’obtenir une vue d’ensemble de la performance de l’entreprise, la direction a exprimé le besoin d’un Tableau de Bord interactif.
 
 🎯 **Objectif du projet**:  
