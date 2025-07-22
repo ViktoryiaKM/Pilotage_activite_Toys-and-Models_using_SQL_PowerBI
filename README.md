@@ -1,4 +1,4 @@
-# "Toys-and-models" : Tableau de Bord Power BI pour le Pilotage d’Activité
+#  Centraliser et moderniser le pilotage d’une PME via un Dashboard multi-axes connecté
 *Projet collaboratif réalisé dans le cadre de ma formation à la Wild Code School.*
 
 ## Contexte
